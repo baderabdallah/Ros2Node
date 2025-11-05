@@ -1,0 +1,13 @@
+int32 value_one
+float32 value_two
+float32 value_three
+float64 value_four
+bool flag_one
+bool flag_two
+bool flag_three
+bool flag_four
+string command
+string request
+int32 counter
+bool inputs_fresh
+bool value_stable

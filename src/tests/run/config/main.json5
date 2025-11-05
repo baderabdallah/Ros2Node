@@ -1,0 +1,4 @@
+{
+  "blueprint_node": "BluePrintNode.json5",
+  "logger": "logger_config.json5"
+}

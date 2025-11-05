@@ -1,0 +1,8 @@
+{
+  "enable_feature": true,
+  "retry_limit_count": 3,
+  "cool_down_time_seconds": 2,
+  "stabilizer_window_size": 3,
+  "upper_limit_tolerance": 10,
+  "lower_limit_tolerance": 30
+}
